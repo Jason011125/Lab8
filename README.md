@@ -1,5 +1,6 @@
 # Lab 8 - Starter
 Team members:Vedant H. Goradia, Zixuan Chen
+<br>
 Q1:
 <br>
 I would fit it in option1, as it will automatically test my program and output the test result for some basic cases.
