@@ -7,7 +7,6 @@ Q2:<br>
 No. Since end to end is used to check whether the whole program is working, not for a particular function.
 <br>
 Q3:<br>
-
 No. Unit testing is only used to test the smallest possible fragment of the code, the messaging function in a messaging application is a bigpart of the code for that application
 <br>
 Q4:<br>
